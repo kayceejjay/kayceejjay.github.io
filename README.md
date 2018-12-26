@@ -1,7 +1,3 @@
----
-layout: page
-title: Readme
----
 <h2>Welcome to the Kayman</h2>
 <p>This is a personal website designed as a virtual scrapbook. It provides blogging opportunities and focuses on five categories or areas of interest:</p>
 <ul>
