@@ -1,0 +1,22 @@
+exclude:
+  - LICENSE
+  - README.md
+  - package.json
+  - package-lock.json
+  - yarn.lock
+
+#Site Settings
+title: Kay Man
+email: kayceejjay@gmail.com
+description: The man and his interests
+motto: Start where you are. Use what you have. Do what you can. > # this means to ignore newlines until "baseurl:"
+url: "http://localhost:63342/Kayceejjay/kayceejjay" # actual site url https://kayceejjay.github.io not CNAME if one used; http://127.0.0.1:4000/ https://kens-coding-kayceejjay.c9users.io/ in development
+baseurl: ""
+
+#Build Settings
+markdown: kramdown
+
+sass:
+  load_paths:
+    - _sass
+    - node_modules
