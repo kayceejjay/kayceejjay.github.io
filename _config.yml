@@ -1,4 +1,5 @@
 exclude:
+  - "/vendor/"
   - LICENSE
   - README.md
   - package.json
